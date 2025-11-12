@@ -26,11 +26,11 @@ Este curso de una hora los estudiantes de secundaria aprenderán a diseñar sus 
 - **Consejos clave**:
 - **Práctica**:
   
-### Lección 4: Introducción a CSS (12 minutos)
-- **Descripción**:
-- **Enlace**:
-- **Consejos clave**:
-- **Práctica**:
+### Lección 4: Introducción a CSS (9 minutos)
+- **Descripción**: Descubre cómo mejorar el estilo visual de tus páginas web con CSS.
+- **Enlace**: https://youtu.be/426LmJlOQZE
+- **Consejos clave**: Vincula tu archivo CSS a tu archivo HTML. Recuerda hacer uso de selectores como `body { background-color: blue; }`. Experimenta con los valores que deseas.
+- **Práctica**: https://jsfiddle.net/t05cq3yw/
   
 ### Lección 5: Crear una página web sencilla (15 minutos)
 - **Descripción**:
