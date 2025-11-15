@@ -1,0 +1,21 @@
+.caja {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #3498db;
+    border-radius: 10px;
+    background-color: #ecf0f1;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: green;
+}
+
+p {
+    color: orange;
+}
