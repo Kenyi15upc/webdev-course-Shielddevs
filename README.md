@@ -21,10 +21,10 @@ Este curso de una hora los estudiantes de secundaria aprenderán a diseñar sus 
 - **Práctica**: https://jsfiddle.net/vu5af8hg/1/
   
 ### Lección 3: Añadir más elementos HTML (8 minutos)
-- **Descripción**:
-- **Enlace**:
-- **Consejos clave**:
-- **Práctica**:
+- **Descripción**: ¡Descubre el facinante mundo de las listas, enlaces e imágenes en HTML!
+- **Enlace**: https://youtu.be/XZszYaeEisw
+- **Consejos clave**: Usa `<ul>`, `<ol>`, `<li>`, `<img>`
+- **Práctica**: https://jsfiddle.net/twfauy3m
   
 ### Lección 4: Introducción a CSS (9 minutos)
 - **Descripción**: Descubre cómo mejorar el estilo visual de tus páginas web con CSS.
@@ -52,7 +52,7 @@ Este curso de una hora los estudiantes de secundaria aprenderán a diseñar sus 
 |----------|----------|-------------|
 | 1 | Explorar Sitios Web |  |
 | 2 | Primera página HTML | https://jsfiddle.net/vu5af8hg/1/ |
-| 3 | Añadir imágenes |  |
+| 3 | Añadir imágenes | https://jsfiddle.net/twfauy3m |
 | 4 | Estilo de la página |  |
 | 5 | Página de perfil |  |
 
