@@ -13,7 +13,7 @@ Este curso de una hora los estudiantes de secundaria aprenderán a diseñar sus 
 - **Descripción**: Descubre cómo se construyen los sitios web y por qué HTML y CSS son sus fundamentos.
 - **Enlace**: https://youtu.be/zfw3TYEhOBc
 - **Consejos clave**: Sitio web = Contenido (HTML) + Diseño (CSS)
-- **Link de toda la presentación**: https://www.canva.com/design/DAG3xoUKu44/r08aYCEDos6r4hc8NqW4NA/edit?utm_content=DAG3xoUKu44&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- **Link de toda la presentación**: https://jsfiddle.net/6k7jd51b/2/
   
 ### Lección 2: Introducción a HTML (6 minutos)
 - **Descripción**: ¡Descubre el poder del HTML y construye tu primera página web!
@@ -49,13 +49,13 @@ Este curso de una hora los estudiantes de secundaria aprenderán a diseñar sus 
 - **Código Fuente Completo**: https://github.com/Kenyi15upc/webdev-course-Shielddevs
 - **Todas las Actividades Prácticas**:
   
-| Lección # | Actividad | Empezar a Programar |
-|----------|----------|-------------|
-| 1 | Explorar Sitios Web | https://www.canva.com/design/DAG3xoUKu44/r08aYCEDos6r4hc8NqW4NA/edit?utm_content=DAG3xoUKu44&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton |
-| 2 | Primera página HTML | https://jsfiddle.net/vu5af8hg/1/ |
-| 3 | Añadir imágenes | https://jsfiddle.net/twfauy3m |
-| 4 | Estilo de la página | https://jsfiddle.net/t05cq3yw/ |
-| 5 | Página de perfil | https://jsfiddle.net/w30oqprv/3/ |
+| Lección # | Actividad           | Empezar a Programar               |
+| :-------: | :-------------------| :--------------------------------|
+| 1         | Explorar Sitios Web | https://jsfiddle.net/6k7jd51b/2/ |
+| 2         | Primera página HTML | https://jsfiddle.net/vu5af8hg/1/ |
+| 3         | Añadir imágenes     | https://jsfiddle.net/twfauy3m    |
+| 4         | Estilo de la página | https://jsfiddle.net/t05cq3yw/   |
+| 5         | Página de perfil    | https://jsfiddle.net/w30oqprv/3/ |
 
 - Cuestionario: https://forms.gle/ihABmMcYVBEz9peFA
 - Compartir: #WebForDevBeginners
