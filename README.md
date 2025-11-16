@@ -43,7 +43,7 @@ Este curso de una hora los estudiantes de secundaria aprenderán a diseñar sus 
 - **Descripción**: Recomendaciones y errores comunes en principiantes
 - **Enlace**: https://www.youtube.com/watch?v=kzh68hm3SAA
 - **Consejos clave**: Realiza comentarios en tu código. Recuerda cerrar bien siempre las etiquetas en html que lo requieran. Crea un archivo css para los estilos y enlázalo en tu html.
-- **Comparte tu Trabajo**: https://forms.gle/sz4YoQ59Q6Lv8rCz6
+- **Comparte tu Trabajo**: https://youtu.be/TuFo1UBJrLw
   
 ## Recursos Adicionales
 - **Código Fuente Completo**: https://github.com/Kenyi15upc/webdev-course-Shielddevs
