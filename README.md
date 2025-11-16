@@ -34,10 +34,10 @@ Este curso de una hora los estudiantes de secundaria aprenderán a diseñar sus 
 - **Práctica**: https://jsfiddle.net/t05cq3yw/
   
 ### Lección 5: Crear una página web sencilla (15 minutos)
-- **Descripción**:
-- **Enlace**:
-- **Consejos clave**:
-- **Proyecto Final**:
+- **Descripción**: ¡Hora de unir todo! Diseña tu primera página web completa (por ejemplo, una página de perfil personal) usando todo lo aprendido de HTML y CSS.
+- **Enlace**: https://www.youtube.com/watch?v=ook0t4Kn7k8
+- **Consejos clave**: Usa una estructura clara (encabezado, contenido, pie de página). Aplica estilos para el color, la fuente y el diseño básico. ¡Sé creativo con el contenido!
+- **Proyecto Final**: https://jsfiddle.net/w30oqprv/3/
   
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 - **Descripción**: Recomendaciones y errores comunes en principiantes
