@@ -55,7 +55,7 @@ Este curso de una hora los estudiantes de secundaria aprenderán a diseñar sus 
 | 2 | Primera página HTML | https://jsfiddle.net/vu5af8hg/1/ |
 | 3 | Añadir imágenes | https://jsfiddle.net/twfauy3m |
 | 4 | Estilo de la página | https://jsfiddle.net/t05cq3yw/ |
-| 5 | Página de perfil |  |
+| 5 | Página de perfil | https://jsfiddle.net/w30oqprv/3/ |
 
 - Cuestionario: https://forms.gle/ihABmMcYVBEz9peFA
 - Compartir: #WebForDevBeginners
