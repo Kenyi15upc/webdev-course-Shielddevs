@@ -57,7 +57,7 @@ Este curso de una hora los estudiantes de secundaria aprenderán a diseñar sus 
 | 4 | Estilo de la página | https://jsfiddle.net/t05cq3yw/ |
 | 5 | Página de perfil |  |
 
-- Cuestionario: 
+- Cuestionario: https://forms.gle/ihABmMcYVBEz9peFA
 - Compartir: #WebForDevBeginners
   
 **¡Gracias por completar el curso!**
